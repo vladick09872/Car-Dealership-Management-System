@@ -8,7 +8,7 @@ Car Dealership Management System — это полноценное Spring Boot �
 
 ## 📸 Скриншот Swagger UI
 
-![![Знімок екрана 2025-06-29 225045.png](../../Pictures/Screenshots/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-29%20225045.png)](http://localhost:8082/swagger-ui/index.html)
+![![Знімок екрана 2025-06-29 225045.png]![Image](https://github.com/user-attachments/assets/c6595ce5-7438-479c-9c39-b3ac90ed3b5e))
 > Пример: список всех доступных эндпоинтов с авторизацией Keycloak
 
 ---
